@@ -15,7 +15,7 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 16px;
-      color: #FFF;
+      color: #000;
       line-height: 22px;
       }
       h1 {
@@ -163,7 +163,7 @@
       background: #1c87c9;
       font-size: 16px;
       font-weight: 700;
-      color: #000;
+      color: #AEBE7;
       cursor: pointer;
       }
       button:hover {
